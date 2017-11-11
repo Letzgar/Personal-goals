@@ -14,10 +14,11 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 - [Projects](#projects)
 - [Books](#books)
+- [Articles](#articles)
 
 ### Projects
 
-- [X] :bulb: [Personal Page](https://letzgar.github.io/)
+- [ ] :bulb: [Personal Page](https://letzgar.github.io/)
 
 ### Books
 
@@ -25,3 +26,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [ ] :closed_book: [Eloquent JavaScript](http://eloquentjavascript.net)
 - [ ] :closed_book: [You don't know JavaScript](http://search.oreilly.com/?i=1;q=You+Don%27t+Know+JS;q1=Books;x=0;x1=t1;y=0&act=fc_contenttype_Books)
 - [ ] :closed_book: [CSS Secrets](http://shop.oreilly.com/product/0636920031123.do)
+
+### Articles
+
+- [] :page_facing_up: [Superhero.js](http://superherojs.com/)
