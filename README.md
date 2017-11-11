@@ -29,4 +29,4 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 ### Articles
 
-- [] :page_facing_up: [Superhero.js](http://superherojs.com/)
+- [ ] :page_facing_up: [Superhero.js](http://superherojs.com/)
