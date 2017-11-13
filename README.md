@@ -8,7 +8,8 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 -  :muscle: *MUST* Read (📄) / Watch (🎥) / Listen (🎼)
 -  :closed_book: Book
--  :bulb:  Project
+-  :bulb: Project
+-  :rocket: Things to do
 
 ## Index
 
@@ -19,6 +20,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 ### Projects
 
 - [ ] :bulb: [Personal Page](https://letzgar.github.io/)
+- [ ] :rocket: [Javascript30](https://javascript30.com/)
 
 ### Books
 
