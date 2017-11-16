@@ -16,10 +16,11 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 - [Projects](#projects)
 - [Books](#books)
 - [Articles](#articles)
+- [Videos](#videos)
 
 ### Projects
 
-- [ ] :bulb: [Personal Page](https://letzgar.github.io/)
+- [X] :bulb: [Personal Page](https://letzgar.github.io/)
 - [ ] :rocket: [Javascript30](https://javascript30.com/)
 
 ### Books
@@ -32,3 +33,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 ### Articles
 
 - [ ] :page_facing_up: [Superhero.js](http://superherojs.com/)
+
+### Videos
+
+- [ ] 🎥 [Let's Learn ES6](https://www.youtube.com/watch?v=LTbnmiXWs2k&list=PL57atfCFqj2h5fpdZD-doGEIs0NZxeJTX)
