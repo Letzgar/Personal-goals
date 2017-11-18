@@ -26,6 +26,7 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 ### Books
 
 - [X] :closed_book: [JavaScript Inspírate](https://leanpub.com/javascript-inspirate)
+- [ ] :closed_book: [Clean Code](https://www.safaribooksonline.com/library/view/clean-code/9780136083238/)
 - [ ] :closed_book: [Eloquent JavaScript](http://eloquentjavascript.net)
 - [ ] :closed_book: [You don't know JavaScript](http://search.oreilly.com/?i=1;q=You+Don%27t+Know+JS;q1=Books;x=0;x1=t1;y=0&act=fc_contenttype_Books)
 - [ ] :closed_book: [CSS Secrets](http://shop.oreilly.com/product/0636920031123.do)
