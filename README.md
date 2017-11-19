@@ -37,4 +37,5 @@ Why? Spending the time to get shit done. I'm open sourcing these goals for acces
 
 ### Videos
 
+- [X] 🎥 [Clean Code](https://www.safaribooksonline.com/library/view/clean-code/9780134661742/)
 - [ ] 🎥 [Let's Learn ES6](https://www.youtube.com/watch?v=LTbnmiXWs2k&list=PL57atfCFqj2h5fpdZD-doGEIs0NZxeJTX)
