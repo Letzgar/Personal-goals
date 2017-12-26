@@ -54,5 +54,5 @@ versioning.
 
 ### Courses
 
-* [] :rocket:
-  [Crea una app con vuejs y jest aplicando tdd](https://pro.codely.tv/library/crea-una-app-con-vuejs-y-jest-aplicando-tdd)
+* [ ] :rocket:
+      [Crea una app con vuejs y jest aplicando tdd](https://pro.codely.tv/library/crea-una-app-con-vuejs-y-jest-aplicando-tdd)
