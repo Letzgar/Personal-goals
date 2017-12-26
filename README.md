@@ -42,6 +42,7 @@ versioning.
 * [ ] :page_facing_up: [Superhero.js](http://superherojs.com/)
 * [ ] :page_facing_up:
       [Refactorizar: Welcome to the css jungle](https://octuweb.com/refactorizar-welcome-the-css-jungle/)
+* [ ] :page_facing_up:[Everything I know about Responsive Web Typography](https://zellwk.com/blog/responsive-typography/)
 
 ### Videos
 
@@ -50,3 +51,8 @@ versioning.
 * [ ] 🎥
       [Let's Learn ES6](https://www.youtube.com/watch?v=LTbnmiXWs2k&list=PL57atfCFqj2h5fpdZD-doGEIs0NZxeJTX)
 * [ ] 🎥 [Introduction to Vue.js](https://frontendmasters.com/courses/vue/)
+
+### Courses
+
+* [] :rocket:
+  [Crea una app con vuejs y jest aplicando tdd](https://pro.codely.tv/library/crea-una-app-con-vuejs-y-jest-aplicando-tdd)
