@@ -31,7 +31,7 @@ versioning.
       [JavaScript Inspírate](https://leanpub.com/javascript-inspirate)
 - [x] :closed_book:
       [Clean Code](https://www.safaribooksonline.com/library/view/clean-code/9780136083238/)
-- [ ] :closed_book: [React in depth](https://legacy.gitbook.com/book/developmentarc/react-indepth/details)
+- [x] :closed_book: [React in depth](https://legacy.gitbook.com/book/developmentarc/react-indepth/details)
 - [ ] :closed_book:
       [You don't know JavaScript](http://search.oreilly.com/?i=1;q=You+Don%27t+Know+JS;q1=Books;x=0;x1=t1;y=0&act=fc_contenttype_Books)
 
