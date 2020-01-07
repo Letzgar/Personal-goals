@@ -23,7 +23,7 @@ versioning.
 ### Projects
 
 - [x] :bulb: [Personal Page](https://letzgar.github.io/)
-- [ ] :bulb: [Personal Project](hhtps://github.com/letzgar/investigator-generator)
+- [ ] :bulb: [Personal Project](https://github.com/letzgar/investigator-generator)
 
 ### Books
 
