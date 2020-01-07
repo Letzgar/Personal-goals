@@ -23,7 +23,7 @@ versioning.
 ### Projects
 
 - [x] :bulb: [Personal Page](https://letzgar.github.io/)
-- [ ] :bulb: [Personal Project](https://github.com/letzgar/call-of-cthulhu-character-generator)
+- [ ] :bulb: [Personal Project](hhtps://github.com/letzgar/investigator-generator)
 
 ### Books
 
@@ -52,5 +52,5 @@ versioning.
 
 ### Courses
 
-- [ ] :rocket:
+- [X] :rocket:
       [Crea una app con vuejs y jest aplicando tdd](https://pro.codely.tv/library/crea-una-app-con-vuejs-y-jest-aplicando-tdd)
